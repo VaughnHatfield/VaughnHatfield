@@ -2,6 +2,7 @@
 -  Computer Science at University of Maryland
 -  Interested in any Computer Science related internships, projects, and research
 -  vaughnhatfield2003@gmail.com
+-  www.linkedin.com/in/vaughn-hatfield-301v
 
 <!---
 VaughnHatfield/VaughnHatfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
